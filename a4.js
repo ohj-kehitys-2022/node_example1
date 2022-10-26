@@ -13,3 +13,5 @@ console.log("Tulostus foreach-loopilla");
 cars.forEach(element => {
     console.log("Auto = "+element);
 });
+
+//testi muutos
