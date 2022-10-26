@@ -24,3 +24,9 @@ Tutkitaan assosiatiivista arraytä. Eli arraytä, jossa kentillä on nimet.
 Assosiatiivisen arrayn käsittely on samantapaista, kuin tietokannasta saatavan datan.
 
 Tutkitaan lisäksi map-funktion käyttöä.
+
+<ul>
+  <li>Teppo Testi</li>
+  <li>Liisa Joki</li>
+  <li>Matti Virta</li>
+</ul>
