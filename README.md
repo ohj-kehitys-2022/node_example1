@@ -1,6 +1,6 @@
 # node_esimerkkejä
 
-Tutustutaan JavaScript kieleen ja Node.js alustaan.
+Tutustutaan JavaScript kieleen ja Node.js alustaan ja Gitin perusteisiin. Ohjeita löytyy sivustolta https://peatutor.com/git_tutor/
 
 ## a1.js
 
