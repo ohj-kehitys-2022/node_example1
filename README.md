@@ -13,3 +13,7 @@ Muuttujat JavaScriptissä: var, let, const.
 ## a3.js
 
 Muuttujien määritys sanoilla let ja var. Mikä on ero?
+
+## a4.js
+
+Tutkitaan array:tä eli taulukkomuuttujaa JavaScriptissä
