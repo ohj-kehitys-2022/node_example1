@@ -9,3 +9,7 @@ console.log -metodilla voidaan tulostaa tekstiä ruudulle. Sitä käytetään ba
 ## a2.js
 
 Muuttujat JavaScriptissä: var, let, const.
+
+## a3.js
+
+Muuttujien määritys sanoilla let ja var. Mikä on ero?
