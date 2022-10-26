@@ -14,4 +14,7 @@ cars.forEach(element => {
     console.log("Auto = "+element);
 });
 
-//testi muutos
+console.log("Tulostus foreach-loopilla ja indeksi mukaan");
+cars.forEach((element, index) => {
+    console.log(index+".Auto = "+element);
+});
